@@ -9,32 +9,40 @@ positions:
 
 email: "mazharicp786@gmail.com"
 
-gscholar: ""
+gscholar: f69MGfEAAAAJ
 github: mazharcyber
+# linkedin: mazhar-iqbal-7885b1230
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a MEXT Scholar and final-year master's student at The University of Osaka, 
-    specializing in 3D computer vision, generative AI, and geometric deep learning. 
-    My research focuses on 3D shape generation, point cloud understanding, and 
-    efficient mesh representation learning for real-world applications.
+    I am a MEXT Scholar and final-year master's student at The University of Osaka,
+    specializing in 3D computer vision, generative AI, and geometric deep learning.
+    My research focuses on 3D data understanding, point cloud processing, 3D scene
+    understanding, and structured 3D representation learning.
+  </p>
+  <p>
+    I am interested in developing learning-based methods for understanding and generating
+    complex 3D structures, with applications in computer vision, robotics, and intelligent systems.
   </p>
 
 portrait_url: /assets/images/photos/mzr.jpg
 
 education:
 - name: The University of Osaka
+  logo: /assets/images/badges/ou.png
   position: >-
     Master of Information Systems Engineering <br/>
     Integrated Media Environment Lab (Uranishi Lab)
   date: Oct 2024 – Present
 
 - name: The University of Osaka
+  logo: /assets/images/badges/ou.png
   position: Research Student
   date: Apr 2024 – Sep 2024
 
 - name: Islamia College University Peshawar
+  logo: /assets/images/badges/icp.png
   position: Bachelor of Software Engineering
   date: 2017 – 2021
 
