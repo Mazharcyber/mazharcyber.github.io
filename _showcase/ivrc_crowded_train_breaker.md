@@ -19,16 +19,16 @@ date: 2025-09-01
 
     <div class="carousel-inner rounded">
       <div class="carousel-item active">
-        <img src="{{ '/assets/images/img1.jpeg' | relative_url }}" class="d-block w-100" style="max-height: 500px; object-fit: cover;">
+        <img src="{{ '/assets/images/img1.JPEG' | relative_url }}" class="d-block w-100" style="max-height: 500px; object-fit: cover;">
       </div>
       <div class="carousel-item">
-        <img src="{{ '/assets/images/img2.jpeg' | relative_url }}" class="d-block w-100" style="max-height: 500px; object-fit: cover;">
+        <img src="{{ '/assets/images/img2.JPEG' | relative_url }}" class="d-block w-100" style="max-height: 500px; object-fit: cover;">
       </div>
       <div class="carousel-item">
-        <img src="{{ '/assets/images/img3.jpeg' | relative_url }}" class="d-block w-100" style="max-height: 500px; object-fit: cover;">
+        <img src="{{ '/assets/images/img3.JPEG' | relative_url }}" class="d-block w-100" style="max-height: 500px; object-fit: cover;">
       </div>
       <div class="carousel-item">
-        <img src="{{ '/assets/images/img4.jpeg' | relative_url }}" class="d-block w-100" style="max-height: 500px; object-fit: cover;">
+        <img src="{{ '/assets/images/img4.JPEG' | relative_url }}" class="d-block w-100" style="max-height: 500px; object-fit: cover;">
       </div>
     </div>
 
