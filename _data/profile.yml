@@ -5,27 +5,20 @@ navbar_name: "Mazhar Iqbal"
 positions:
 - name: Master's Student, Information Systems Engineering
 - name: The University of Osaka
-- name: MEXT Scholar
+- name: MEXT Scholar (Embassy Recommendation)
 
 email: "mazharicp786@gmail.com"
-# cv_link: /assets/files/cv.pdf
 
-gscholar: ""  
+gscholar: ""
 github: mazharcyber
-# linkedin: add later if you want
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a MEXT Scholar and final-year master's student in Information Systems Engineering 
-    at The University of Osaka. My research focuses on 3D computer vision, generative modeling, 
-    and geometric deep learning, with an emphasis on point cloud processing and mesh generation.
-  </p>
-  <p>
-    I am currently working on <strong>OptimusMesh</strong>, an autoregressive framework for 
-    generating compact and high-quality triangle meshes from point clouds using sparse latent pivots 
-    and transformer-based decoding. I aim to pursue a Ph.D. in computer science with a focus on 
-    3D vision, generative AI, and 3D scene understanding.
+    I am a MEXT Scholar and final-year master's student at The University of Osaka, 
+    specializing in 3D computer vision, generative AI, and geometric deep learning. 
+    My research focuses on 3D shape generation, point cloud understanding, and 
+    efficient mesh representation learning for real-world applications.
   </p>
 
 portrait_url: /assets/images/photos/mzr.jpg
