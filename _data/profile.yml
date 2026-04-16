@@ -24,7 +24,6 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/mzr.jpg
-# portrait_caption: ""
 
 education:
 - name: "The University of Osaka"
@@ -43,6 +42,22 @@ education:
   logo: /assets/images/badges/icp.png
   position: "Bachelor of Software Engineering"
   date: "2017 – 2021"
+
+experience:
+- name: "FAST National University (NUCES)"
+  logo: /assets/images/badges/fast.png
+  position: "Instructor / Lecturer (Computer Science)"
+  date: "2022 – 2024"
+  description: >
+    Taught undergraduate courses including Object-Oriented Programming, Digital Logic Design, and Information Technology.
+    Delivered lectures, supervised student projects, and contributed to curriculum delivery in core computer science subjects.
+
+- name: "Android Development"
+  position: "Mobile Application Developer"
+  date: "2021 – Present"
+  description: >
+    Developed and deployed Android applications with over 1M+ downloads on Google Play.
+    Focused on scalable mobile systems, data transfer applications, and real-world user-oriented solutions.
 
 awards:
 - name: "MEXT Scholarship (Embassy Recommendation)"
