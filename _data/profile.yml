@@ -1,61 +1,53 @@
-primary_name: "Your Name"
+primary_name: "Mazhar Iqbal"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Mazhar Iqbal"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Master's Student, Information Systems Engineering
+- name: The University of Osaka
+- name: MEXT Scholar
 
+email: "mazharicp786@gmail.com"
+# cv_link: /assets/files/cv.pdf
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+gscholar: ""  
+github: mazharcyber
+# linkedin: add later if you want
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a MEXT Scholar and final-year master's student in Information Systems Engineering 
+    at The University of Osaka. My research focuses on 3D computer vision, generative modeling, 
+    and geometric deep learning, with an emphasis on point cloud processing and mesh generation.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am currently working on <strong>OptimusMesh</strong>, an autoregressive framework for 
+    generating compact and high-quality triangle meshes from point clouds using sparse latent pivots 
+    and transformer-based decoding. I aim to pursue a Ph.D. in computer science with a focus on 
+    3D vision, generative AI, and 3D scene understanding.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/mzr.jpg
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: The University of Osaka
+  position: >-
+    Master of Information Systems Engineering <br/>
+    Integrated Media Environment Lab (Uranishi Lab)
+  date: Oct 2024 – Present
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+- name: The University of Osaka
+  position: Research Student
+  date: Apr 2024 – Sep 2024
+
+- name: Islamia College University Peshawar
+  position: Bachelor of Software Engineering
+  date: 2017 – 2021
 
 awards:
-- name: Award Name 2
+- name: MEXT Scholarship (Embassy Recommendation)
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+
+- name: HEC Undergraduate Scholarship
+  date: 2019
