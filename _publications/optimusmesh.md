@@ -3,6 +3,7 @@ title: "OptimusMesh: Autoregressive Mesh Generation from Point Clouds via Sparse
 collection: publications
 category: conferences
 year: 2026
+date: 2026-12-31
 authors: "Mazhar Iqbal, Naoya Chiba, Xuanmeng Sha, Tomohiro Mashita, Yuki Uranishi"
 venue: "European Conference on Computer Vision (ECCV) 2026"
 status: "Under Review"
