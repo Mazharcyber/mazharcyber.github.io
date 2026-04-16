@@ -16,10 +16,11 @@ linkedin: mazhar-iqbal-7885b1230
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a MEXT Scholar and final-year master’s student at The University of Osaka, where I conduct research in 3D computer vision, generative AI, and geometric deep learning.
-    My research interests include 3D data understanding, point cloud processing, 3D scene understanding, shape representation learning, and mesh generation.
+    I am a MEXT Scholar and final-year master’s student at The University of Osaka, where I am currently conducting research in 3D computer vision, generative AI, and geometric deep learning.
+    I work in the <strong>Integrated Media Environment Lab (Uranishi Laboratory)</strong> under the guidance of <strong>Assoc. Prof. Naoya Chiba</strong> and <strong>Prof. Tomohiro Mashita</strong>.
   </p>
   <p>
+    My research interests include 3D data understanding, point cloud processing, 3D scene understanding, shape representation learning, and mesh generation.
     I am interested in developing learning-based methods for understanding and generating structured 3D content, with applications in computer vision, robotics, and intelligent visual systems.
   </p>
 
@@ -44,20 +45,27 @@ education:
   date: "2017 – 2021"
 
 experience:
-- name: "FAST National University (NUCES)"
+- name: "FAST National University of Computer and Emerging Sciences (NUCES)"
   logo: /assets/images/badges/fast.png
-  position: "Instructor / Lecturer (Computer Science)"
-  date: "2022 – 2024"
+  position: "Computer Science Instructor"
+  date: "Jan 2023 – Mar 2024"
   description: >
-    Taught undergraduate courses including Object-Oriented Programming, Digital Logic Design, and Information Technology.
-    Delivered lectures, supervised student projects, and contributed to curriculum delivery in core computer science subjects.
+    Taught undergraduate courses including Object-Oriented Programming, Digital Logic, and introductory Information Technology.
+    Supervised programming labs and guided students through hands-on exercises.
 
-- name: "Android Development"
-  position: "Mobile Application Developer"
-  date: "2021 – Present"
+- name: "Techlyfe Studio"
+  position: "Android App Developer"
+  date: "Sep 2021 – Sep 2022"
   description: >
-    Developed and deployed Android applications with over 1M+ downloads on Google Play.
-    Focused on scalable mobile systems, data transfer applications, and real-world user-oriented solutions.
+    Developed commercial Android applications in education, utilities, and e-commerce.
+    Integrated REST APIs and advertisement platforms including AdMob, Facebook, and Applovin.
+
+- name: "I Softic IT Solution"
+  position: "Mobile App Developer"
+  date: "Jul 2020 – Aug 2021"
+  description: >
+    Built and published business and utility apps on Google Play.
+    Developed mobile UI components and integrated REST APIs.
 
 awards:
 - name: "MEXT Scholarship (Embassy Recommendation)"
