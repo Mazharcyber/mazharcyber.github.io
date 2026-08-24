@@ -1,6 +1,5 @@
 ---
-title: "OptimusMesh: Compact Autoregressive Mesh Generation from Point Clouds via
-Sparse Latent Pivots"
+title: "OptimusMesh: Compact Autoregressive Mesh Generation from Point Clouds via Sparse Latent Pivots"
 collection: publications
 category: conferences
 year: 2026
