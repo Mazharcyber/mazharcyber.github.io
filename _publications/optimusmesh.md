@@ -7,7 +7,7 @@ date: 2026-12-31
 authors: "Mazhar Iqbal, Naoya Chiba, Xuanmeng Sha, Yuki Uranishi, Tomohiro Mashita"
 venue: " International Conference on 3D Vision 2027"
 status: "Under Review"
-teaser: "/assets/images/photos/fig1.png"
+teaser: "/assets/images/photos/fig1.pdf"
 excerpt: "Autoregressive framework for generating compact and high-quality triangle meshes from point clouds using sparse latent pivots and transformer-based decoding."
 selected: true
 ---
