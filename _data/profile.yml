@@ -24,14 +24,16 @@ short_bio: >-
   </p>
 
   <p>
-    My research interests include 3D data understanding, point cloud processing, 3D scene understanding, shape representation learning, and mesh generation.
-    I am interested in developing learning-based methods for understanding and generating structured 3D content, with applications in computer vision, robotics, and intelligent visual systems.
-  </p>
+  My research interests include 3D data understanding, point cloud processing, 3D scene understanding, shape representation learning, and mesh generation.
+  I am interested in learning-based methods for structured 3D content generation and understanding, with applications in computer vision, robotics, and intelligent visual systems.
+</p>
 
-  <p>
-    Recently, I a also exploring human--humanoid interaction and Physical AI, especially how multimodal learning, embodied agents, and 3D/4D perception can support human behavior understanding, social interaction, and future human--AI collaboration.
-    This direction connects with Dr. Liyun Zhang
-  </p>
+<p>
+  I am also exploring broader directions in Physical AI, including human--humanoid interaction, multimodal learning, embodied agents, 3D/4D perception, human behavior understanding, social interaction, and human--AI collaboration.
+  This direction connects with Dr. Liyun Zhang's research interests in MLLMs, embodied AI, affective computing, and explainable AI.
+</p>
+
+  
 
 portrait_url: /assets/images/photos/mzr.jpg
 
