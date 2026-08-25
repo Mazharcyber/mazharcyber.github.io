@@ -14,7 +14,7 @@ github: Mazharcyber
 linkedin: mazhar-iqbal-7885b1230
 
 short_bio_text_justify: false
- short_bio: >-
+short_bio: >-
   <p>
     I am a MEXT Scholar and final-year master's student at The University of Osaka, working in the
     <a href="https://www.lab.ime.cmc.osaka-u.ac.jp/?lang=en" target="_blank"><strong>Integrated Media Environment Lab (Uranishi Laboratory)</strong></a>
@@ -23,6 +23,7 @@ short_bio_text_justify: false
     <a href="https://sites.google.com/view/tomohiromashitaphd/home" target="_blank"><strong>Prof. Tomohiro Mashita</strong></a>,
     and <a href="https://zly9120.github.io/" target="_blank"><strong>Dr. Liyun Zhang</strong></a>.
   </p>
+
   <p>
     My research interests include 3D computer vision, 3D generation and reconstruction, point cloud processing, shape representation learning, and generative AI.
     I am also beginning to explore Physical AI and human&ndash;humanoid interaction, especially how embodied agents can understand human behavior and social interaction.
