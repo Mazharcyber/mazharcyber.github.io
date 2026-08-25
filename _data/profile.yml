@@ -14,23 +14,19 @@ github: Mazharcyber
 linkedin: mazhar-iqbal-7885b1230
 
 short_bio_text_justify: false
-short_bio: >-
+ short_bio: >-
   <p>
-    I am a MEXT Scholar and final-year master's student at The University of Osaka, where I am currently conducting research in 3D computer vision, generative AI, and geometric deep learning.
-    I work in the <a href="https://www.lab.ime.cmc.osaka-u.ac.jp/?lang=en" target="_blank"><strong>Integrated Media Environment Lab (Uranishi Laboratory)</strong></a> under the guidance of
+    I am a MEXT Scholar and final-year master's student at The University of Osaka, working in the
+    <a href="https://www.lab.ime.cmc.osaka-u.ac.jp/?lang=en" target="_blank"><strong>Integrated Media Environment Lab (Uranishi Laboratory)</strong></a>
+    under the guidance of
     <a href="https://sites.google.com/view/n-chiba-/top-en" target="_blank"><strong>Assoc. Prof. Naoya Chiba</strong></a>,
     <a href="https://sites.google.com/view/tomohiromashitaphd/home" target="_blank"><strong>Prof. Tomohiro Mashita</strong></a>,
     and <a href="https://zly9120.github.io/" target="_blank"><strong>Dr. Liyun Zhang</strong></a>.
   </p>
 
   <p>
-    My research interests include 3D data understanding, point cloud processing, 3D scene understanding, shape representation learning, and mesh generation.
-    I am interested in learning-based methods for structured 3D content generation and understanding, with applications in computer vision, robotics, and intelligent visual systems.
-  </p>
-
-  <p>
-    I am also exploring broader directions in Physical AI, including human&ndash;humanoid interaction, multimodal learning, embodied agents, 3D/4D perception, human behavior understanding, social interaction, and human&ndash;AI collaboration.
-    This direction connects with Dr. Liyun Zhang's research interests in MLLMs, embodied AI, affective computing, and explainable AI.
+    My research interests include 3D computer vision, 3D generation and reconstruction, point cloud processing, shape representation learning, and generative AI.
+    I am also beginning to explore Physical AI and human&ndash;humanoid interaction, especially how embodied agents can understand human behavior and social interaction.
   </p>
 
 portrait_url: /assets/images/photos/mzr.jpg
