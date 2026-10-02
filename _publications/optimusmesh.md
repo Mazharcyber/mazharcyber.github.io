@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 year: 2026
 date: 2026-10-02
-authors: "Mazhar Iqbal, Naoya Chiba, Xuanmeng Sha, Tomohiro Mashita, Yuki Uranishi"
+authors: "Mazhar Iqbal, Xuanmeng Sha, Naoya Chiba, Yuki Uranishi, Tomohiro Mashita"
 venue: "arXiv:2610.01148"
 status: "Preprint"
 teaser: "/assets/images/fig11.png"
