@@ -7,3 +7,6 @@ pages:
 
 - name: Showcase
   url: /showcase
+
+- name: Teaching
+  url: /teaching
